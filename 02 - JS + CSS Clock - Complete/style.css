@@ -49,5 +49,5 @@ body {
 }
 
 .no-transition {
-  transition: none;
+  transition: none !important;
 }
