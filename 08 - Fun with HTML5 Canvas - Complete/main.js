@@ -7,7 +7,7 @@ canvas.height = window.innerHeight
 context.lineJoin = 'round'
 context.lineCap = 'round'
 // context.lineWidth = 100
-context.globalCompositeOperation = 'destination-on'
+context.globalCompositeOperation = 'saturation'
 
 let isDrawing = false
 let lastX = 0
